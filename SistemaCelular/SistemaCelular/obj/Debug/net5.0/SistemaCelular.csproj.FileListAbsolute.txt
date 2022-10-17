@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\SistemaCelular\SistemaCelular\SistemaCelular\bin\Debug\net5.0\SistemaCelular.exe
+C:\Users\ASUS\Desktop\SistemaCelular\SistemaCelular\SistemaCelular\bin\Debug\net5.0\SistemaCelular.deps.json
+C:\Users\ASUS\Desktop\SistemaCelular\SistemaCelular\SistemaCelular\bin\Debug\net5.0\SistemaCelular.runtimeconfig.json
+C:\Users\ASUS\Desktop\SistemaCelular\SistemaCelular\SistemaCelular\bin\Debug\net5.0\SistemaCelular.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\SistemaCelular\SistemaCelular\SistemaCelular\bin\Debug\net5.0\SistemaCelular.dll
+C:\Users\ASUS\Desktop\SistemaCelular\SistemaCelular\SistemaCelular\bin\Debug\net5.0\ref\SistemaCelular.dll
+C:\Users\ASUS\Desktop\SistemaCelular\SistemaCelular\SistemaCelular\bin\Debug\net5.0\SistemaCelular.pdb
+C:\Users\ASUS\Desktop\SistemaCelular\SistemaCelular\SistemaCelular\obj\Debug\net5.0\SistemaCelular.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\SistemaCelular\SistemaCelular\SistemaCelular\obj\Debug\net5.0\SistemaCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\SistemaCelular\SistemaCelular\SistemaCelular\obj\Debug\net5.0\SistemaCelular.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\SistemaCelular\SistemaCelular\SistemaCelular\obj\Debug\net5.0\SistemaCelular.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\SistemaCelular\SistemaCelular\SistemaCelular\obj\Debug\net5.0\SistemaCelular.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SistemaCelular\SistemaCelular\SistemaCelular\obj\Debug\net5.0\SistemaCelular.dll
+C:\Users\ASUS\Desktop\SistemaCelular\SistemaCelular\SistemaCelular\obj\Debug\net5.0\ref\SistemaCelular.dll
+C:\Users\ASUS\Desktop\SistemaCelular\SistemaCelular\SistemaCelular\obj\Debug\net5.0\SistemaCelular.pdb
+C:\Users\ASUS\Desktop\SistemaCelular\SistemaCelular\SistemaCelular\obj\Debug\net5.0\SistemaCelular.genruntimeconfig.cache
